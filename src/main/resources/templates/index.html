@@ -1,0 +1,23 @@
+<head>
+    <link type="text/css" href="main.css" rel="stylesheet">
+</head>
+<body>
+
+<div>
+    <table id="table" onclick="rowData()">
+
+        <tr>
+            <td>Year</td>
+            <td>Actress</td>
+            <td>Movie</td>
+        </tr>
+        <tr data-th-each="award : ${awards}">
+            <td data-th-text="${award.year}"></td>
+            <td data-th-text="${award.actress}"></td>
+            <td data-th-text="${award.movie}"></td>
+        </tr>
+    </table>
+</div>
+
+</body>
+<script type="text/javascript" src="script.js"></script>

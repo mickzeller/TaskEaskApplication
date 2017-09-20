@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+html, body {
+    font-family: 'Roboto', 'Helvetica', sans-serif;
+}
+
+tr:hover {
+    background-color: #576b8e
+}
+
+tr:nth-child(even) {
+    background-color: #cedad5
+}
+
+table {
+    width: 100%;
+}

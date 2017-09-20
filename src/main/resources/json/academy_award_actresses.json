@@ -1,0 +1,237 @@
+[
+	{
+		"year": "1970",
+		"actress": "Glenda Jackson",
+		"movie": "Women in Love"
+	},
+	{
+		"year": "1971",
+		"actress": "Jane Fonda",
+		"movie": "Klute"
+	},
+	{
+		"year": "1972",
+		"actress": "Liza Minnelli",
+		"movie": "Cabaret"
+	},
+	{
+		"year": "1973",
+		"actress": "Glenda Jackson",
+		"movie": "A Touch of Class"
+	},
+	{
+		"year": "1974",
+		"actress": "Ellen Burstyn",
+		"movie": "Alice Doesn't Live Here Anymore"
+	},
+	{
+		"year": "1975",
+		"actress": "Louise Fletcher",
+		"movie": "One Flew over the Cuckoo's Nest"
+	},
+	{
+		"year": "1976",
+		"actress": "Faye Dunaway",
+		"movie": "Network"
+	},
+	{
+		"year": "1977",
+		"actress": "Dianne Keaton",
+		"movie": "Annie Hall"
+	},
+	{
+		"year": "1978",
+		"actress": "Jane Fonda",
+		"movie": "Coming Home"
+	},
+	{
+		"year": "1979",
+		"actress": "Sally Field",
+		"movie": "Norma Rae"
+	},
+	{
+		"year": "1980",
+		"actress": "Sissy Spacek",
+		"movie": "Coal Miner's Daughter"
+	},
+	{
+		"year": "1981",
+		"actress": "Kathryn Hepburn",
+		"movie": "On Golden Pond"
+	},
+	{
+		"year": "1982",
+		"actress": "Maryl Streep",
+		"movie": "Sophie's Choice"
+	},
+	{
+		"year": "1983",
+		"actress": "Shirley MacLaine",
+		"movie": "Terms of Endearment"
+	},
+	{
+		"year": "1984",
+		"actress": "Sally Field",
+		"movie": "Places in the Heart"
+	},
+	{
+		"year": "1985",
+		"actress": "Geraldine Page",
+		"movie": "A Trip to the Bountiful"
+	},
+	{
+		"year": "1986",
+		"actress": "Marlee Matlin",
+		"movie": "Children of a Lesser God"
+	},
+	{
+		"year": "1987",
+		"actress": "Cher",
+		"movie": "Moonstruck"
+	},
+	{
+		"year": "1988",
+		"actress": "Jodie Foster",
+		"movie": "The Accused"
+	},
+	{
+		"year": "1989",
+		"actress": "Jessica Tandy",
+		"movie": "Driving Miss Daisy"
+	},
+	{
+		"year": "1990",
+		"actress": "Kathy Bates",
+		"movie": "Misery"
+	},
+	{
+		"year": "1991",
+		"actress": "Jodie Foster",
+		"movie": "The Silence of the Lambs"
+	},
+	{
+		"year": "1992",
+		"actress": "Emma Thompson",
+		"movie": "Howards End"
+	},
+	{
+		"year": "1993",
+		"actress": "Holly Hunter",
+		"movie": "The Piano"
+	},
+	{
+		"year": "1994",
+		"actress": "Jessica Lange",
+		"movie": "Blue Sky"
+	},
+	{
+		"year": "1995",
+		"actress": "Susan Sarandon",
+		"movie": "Dead Man Walking"
+	},
+	{
+		"year": "1996",
+		"actress": "Frances McDormand",
+		"movie": "Fargo"
+	},
+	{
+		"year": "1997",
+		"actress": "Helen Hunt",
+		"movie": "As Good As It Gets"
+	},
+	{
+		"year": "1998",
+		"actress": "Gwyneth Paltrow",
+		"movie": "Shakespeare in Love"
+	},
+	{
+		"year": "1999",
+		"actress": "Hilary Swank",
+		"movie": "Boys Don't Cry"
+	},
+	{
+		"year": "2000",
+		"actress": "Julia Roberts",
+		"movie": "Erin Brockovich"
+	},
+	{
+		"year": "2001",
+		"actress": "Halle Berry",
+		"movie": "Monster's Ball"
+	},
+	{
+		"year": "2002",
+		"actress": "Nicole Kidman",
+		"movie": "The Hours"
+	},
+	{
+		"year": "2003",
+		"actress": "Charlize Theron",
+		"movie": "Monster"
+	},
+	{
+		"year": "2004",
+		"actress": "Hilary Swank",
+		"movie": "Million Dollar Baby"
+	},
+	{
+		"year": "2005",
+		"actress": "Reese Witherspoon",
+		"movie": "Walk the Line"
+	},
+	{
+		"year": "2006",
+		"actress": "Helen Mirren",
+		"movie": "The Queen"
+	},
+	{
+		"year": "2007",
+		"actress": "Marion Cotillard",
+		"movie": "La Vie en Rose"
+	},
+	{
+		"year": "2008",
+		"actress": "Kate Winslet",
+		"movie": "The Reader"
+	},
+	{
+		"year": "2009",
+		"actress": "Sandra Bullock",
+		"movie": "The Blind Side"
+	},
+	{
+		"year": "2010",
+		"actress": "Natalie Portman",
+		"movie": "Black Swan"
+	},
+	{
+		"year": "2011",
+		"actress": "Meryl Streep",
+		"movie": "The Iron Lady"
+	},
+	{
+		"year": "2012",
+		"actress": "Jennifer Lawrence",
+		"movie": "Silver Linings Playbook"
+	},
+	{
+		"year": "2013",
+		"actress": "Cate Blanchett",
+		"movie": "Blue Jasmine"
+	},
+	{
+		"year": "2014",
+		"actress": "Julianne Moore",
+		"movie": "Still Alice"
+	},
+	{
+		"year": "2015",
+		"actress": "Brie Larson",
+		"movie": "Room"
+	},
+	{
+		"year": "2016",
+		"actress": "Emma Stone",
+		"movie": "La La Land"
+	}
+]
